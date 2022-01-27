@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <div style={{marginBottom: '20px'}}>
-        <Link to='/' style={{marginRight: '20px'}}>Home111</Link>
+        <Link to='/' style={{marginRight: '20px'}}>Home222</Link>
         <Link to='/post'>Add a Post</Link>
       </div>
       <Routes>
